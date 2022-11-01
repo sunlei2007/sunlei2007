@@ -12,7 +12,7 @@
  
 #  About us
 
-<p>&nbsp;&nbsp;I am a happy coder!</p>
+<p>&nbsp;&nbsp;Be a happy programmer.!</p>
 <p>&nbsp;&nbsp;I like coding, if possible until 80 years old.</p> 
  
 <div align="center"><img src="https://github.com/sunlei2007/sunlei2007/blob/main/github-contribution-grid-snake.svg" /></div>
