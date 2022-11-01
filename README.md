@@ -10,9 +10,9 @@
 <br>
 
  
-#  🙋 Hello
+#  About us
 
-<p>✍️&nbsp;&nbsp;I am a happy coder!</p>
+<p>&nbsp;&nbsp;I am a happy coder!</p>
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p> 
  
 <div align="center"><img src="https://github.com/sunlei2007/sunlei2007/blob/main/github-contribution-grid-snake.svg" /></div>
