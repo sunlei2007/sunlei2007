@@ -12,8 +12,9 @@
  
 #  About me
 
-<p>&nbsp;&nbsp;Be a happy programmer!</p>
-<p>&nbsp;&nbsp;I like coding, if possible until 80 years old.</p> 
+<p>&nbsp;&nbsp;Hello world! I am Lei Sun. I am a student in MITT.</p>
+<p>&nbsp;&nbsp;I hope to be a happy programmer!
+<p>&nbsp;&nbsp;I like coding, if possible until 80 years old!</p> 
  
 <div align="center"><img src="https://github.com/sunlei2007/sunlei2007/blob/main/github-contribution-grid-snake.svg" /></div>
 
