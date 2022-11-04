@@ -12,7 +12,7 @@
  
 ##  About me
 
-<p>&nbsp;&nbsp;Hello world! I am Lei Sun. I am a student in MITT.</p>
+<p>&nbsp;&nbsp;Hello, I am Lei Sun. I am a student in MITT.</p>
 <p>&nbsp;&nbsp;I hope to be a happy programmer!
 <p>&nbsp;&nbsp;I like coding, if possible until 80 years old!😀</p> 
  
