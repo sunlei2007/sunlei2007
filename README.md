@@ -17,9 +17,9 @@
 <p>&nbsp;&nbsp;I like coding, if possible until 80 years old!😀</p> 
  
 ##  My project
-<p>1. Blazor framework : It is a Blazor framework developed by myself for enterprise-level development. The back-end uses asp.net CoreWebAPI, and uses JWT permission verification, and the front-end uses Blazor. <a href="https://github.com/sunlei2007/CRMApp1">https://github.com/sunlei2007/CRMApp1</a></p>
-<p>2. </p>
-
+<p>1. Blazor framework: It is a Blazor framework developed by myself for enterprise-level development. The back-end uses asp.net CoreWebAPI, and uses JWT permission verification, and the front-end uses Blazor. <a href="https://github.com/sunlei2007/CRMApp1">https://github.com/sunlei2007/CRMApp1</a></p>
+<p>2. Typing Faster: It is a small game written in Javascript.  <a href="https://sunlei2007.github.io/OOJ-Fasttype/">https://sunlei2007.github.io/OOJ-Fasttype/</a></p>
+<p>3. A simple company website <a href="https://github.com/sunlei2007/FinalProjectCSS">https://github.com/sunlei2007/FinalProjectCSS</a></p>
 <div align="center"><img src="https://github.com/sunlei2007/sunlei2007/blob/main/assets/img/github-contribution-grid-snake.svg" /></div>
 
 ##  My skills
