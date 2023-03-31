@@ -16,6 +16,10 @@
 <p>&nbsp;&nbsp;I hope to be a happy programmer!
 <p>&nbsp;&nbsp;I like coding, if possible until 80 years old!😀</p> 
  
+##  My project
+<p>1. Blazor framework : It is a Blazor framework developed by myself for enterprise-level development. The back-end uses asp.net CoreWebAPI, and uses JWT permission verification, and the front-end uses Blazor. <a href="https://github.com/sunlei2007/CRMApp1">https://github.com/sunlei2007/CRMApp1</a></p>
+<p>2. </p>
+
 <div align="center"><img src="https://github.com/sunlei2007/sunlei2007/blob/main/assets/img/github-contribution-grid-snake.svg" /></div>
 
 ##  My skills
