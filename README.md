@@ -16,7 +16,7 @@
 <p>&nbsp;&nbsp;I hope to be a happy programmer!
 <p>&nbsp;&nbsp;I like coding, if possible until 80 years old!😀</p> 
  
-##  My project
+##  My projects
 <p>1. Blazor framework: It is a Blazor framework developed by myself for enterprise-level development. The back-end uses asp.net CoreWebAPI, and uses JWT permission verification, and the front-end uses Blazor. <a href="https://github.com/sunlei2007/CRMApp1">https://github.com/sunlei2007/CRMApp1</a></p>
 <p>2. Typing Faster: It is a small game written in Javascript.  <a href="https://sunlei2007.github.io/OOJ-Fasttype/">https://sunlei2007.github.io/OOJ-Fasttype/</a></p>
 <p>3. A simple company website <a href="https://github.com/sunlei2007/FinalProjectCSS">https://github.com/sunlei2007/FinalProjectCSS</a></p>
