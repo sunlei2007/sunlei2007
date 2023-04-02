@@ -15,6 +15,7 @@
 <p>&nbsp;&nbsp;Hello, I am Lei Sun. I am a student in MITT.</p>
 <p>&nbsp;&nbsp;I hope to be a happy programmer!
 <p>&nbsp;&nbsp;I like coding, if possible until 80 years old!😀</p> 
+<p>Linkedin: https://www.linkedin.com/in/lei-sun-345a2825a/</p> 
  
 ##  My projects
 <p>1. Blazor framework: It is a Blazor framework developed by myself for enterprise-level development. The back-end uses asp.net CoreWebAPI, and uses JWT permission verification, and the front-end uses Blazor. <a href="https://github.com/sunlei2007/CRMApp1">https://github.com/sunlei2007/CRMApp1</a></p>
